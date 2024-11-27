@@ -1,0 +1,26 @@
+/* styles.css */
+
+body {
+    /* Set a gradient background from purple to teal */
+    background: linear-gradient(to right, purple, teal);
+    /* Gradient background */
+    font-family: 'Arial', sans-serif;
+    /* Font family */
+    color: white;
+    /* Text color */
+    margin: 0;
+    /* Margin */
+    padding: 0;
+    /* Padding */
+    display: flex;
+    /* Flex display */
+    justify-content: center;
+    /* Center content horizontally */
+    align-items: center;
+    /* Center content vertically */
+    height: 100vh;
+    /* Full viewport height */
+}
+
+
+}
